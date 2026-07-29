@@ -118,21 +118,21 @@ Make sure you have [Node.js](https://nodejs.org) (v18 or higher recommended) ins
     <tr>
       <td width="50%" align="center">
         <b>🎭 Welcome Splash Screen</b><br/>
-        <img src="src/assets/Wellcome.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Welcome Screen"/>
+        <img width="960" height="600" alt="{E7F68735-69A3-4415-972F-95CEEF428DAA}" src="https://github.com/user-attachments/assets/84f8d3ab-ca2b-46d9-9a76-5ecca8e22608" />
       </td>
       <td width="50%" align="center">
         <b>🏡 Landing Homepage</b><br/>
-        <img src="src/assets/page2-1.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Homepage"/>
+        <img width="960" height="600" alt="{FEE16631-1988-4615-B574-A34B9BCDE532}" src="https://github.com/user-attachments/assets/f90bf55f-a0fa-450e-99e5-96538b9a04c0" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <b>🌿 Premium Plant Showcase</b><br/>
-        <img src="src/assets/monstera.png.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Plant Carousel"/>
+        <img width="960" height="598" alt="{2CE03737-78C1-48DE-B94A-7685BF0EECCF}" src="https://github.com/user-attachments/assets/a5937a43-80b1-43eb-b8da-ce2dede689f5" />
       </td>
       <td width="50%" align="center">
         <b>📖 Cinematic About Us Banner</b><br/>
-        <img src="src/assets/bg-about.jpg" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="About Screen"/>
+         <img width="960" height="598" alt="{0BB34E1E-AE9F-4D83-A028-9CEBA8A7551D}" src="https://github.com/user-attachments/assets/fb6812e7-7d9e-4c31-a40b-03f6ce9083f5" />
       </td>
     </tr>
   </table>
